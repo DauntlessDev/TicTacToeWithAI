@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleSize">24sp</dimen>
+    <dimen name="marginBottom">20dp</dimen>
+    <dimen name="gridheight">410dp</dimen>
+    <dimen name="grid_margin_side">8dp</dimen>
+    <dimen name="resetWidth">153dp</dimen>
+    <dimen name="resetHeight">44dp</dimen>
+    <dimen name="textmargintop">20dp</dimen>
+    <dimen name="linear_width">410dp</dimen>
+    <dimen name="linear_height">136dp</dimen>
+    <dimen name="image_padding">10dp</dimen>
+    <dimen name="xosize">136dp</dimen>
+    <dimen name="button_margin_start">8dp</dimen>
+    <dimen name="button_margin_top">100dp</dimen>
+    <dimen name="button_width">210dp</dimen>
+    <dimen name="textmargin_top">140dp</dimen>
+    <dimen name="textsize">36sp</dimen>
+</resources>
